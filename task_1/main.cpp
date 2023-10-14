@@ -58,4 +58,5 @@ int main() {
     cout << assembling(heightHouse);
 
     return 0;
+
 }
